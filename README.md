@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Web Development and Competitive Programming
 - 📫 How to reach me: Linkedin,Medium,Behance,Instagram,Facebook,Whatsapp,Snapchat
 - 😄 Pronouns: he/his/him
-- ⚡ Fun fact: Professional Photographe
+- ⚡ Fun fact: Professional Photographer
