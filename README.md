@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started: 
 
-- 🔭 I’m currently working on a Secret Project
+- 🔭 I’m currently working on a Secret Projec
 - 🌱 I’m currently learning Full Stack Development
 - 👯 I’m looking to collaborate on backend projects on NodeJS
 - 🤔 I’m looking for help with startups
